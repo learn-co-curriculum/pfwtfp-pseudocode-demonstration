@@ -1,4 +1,4 @@
-# Title
+# Pseudocode Demonstration
 
 ## Learning Goals
 
@@ -15,7 +15,7 @@ our party.
 Baguettes are good to think about because they're basically rulers that you can
 eat. Here's a picture.
 
-<iframe src="https://giphy.com/embed/Yxq7SC6yTAwZG" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Brett and Jemaine are "Fou-de-fa-fa" for a baguette](https://curriculum-content.s3.amazonaws.com/pfwtfp/pfwtfp-pseudocode-demonstration/conchords_baguette.png)
 
 _A gluten-bomb of deliciousness_
 
